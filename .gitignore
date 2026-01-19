@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets / credentials
+.env
+*.env
+*.key
+*.pem
+*secrets*.json
+
+# Local-only docs
+LOCAL_RUN_GUIDE.md
