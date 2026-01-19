@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+joblib
+torch
+torch-geometric
+scikit-learn
+matplotlib
+seaborn
+networkx
+pillow
